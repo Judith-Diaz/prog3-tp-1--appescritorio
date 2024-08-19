@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|c:\\users\\judhit\\desktop\\en procesotp1.mio\\tp1_grupo6\\tp1_grupo6\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejericio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejericio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejercicio2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejercicio2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\tp1_grupo6\\ejericio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C89040E-9F0B-4A56-81CE-C13A8FACFD49}|TP1_GRUPO6\\TP1_GRUPO6.csproj|solutionrelative:tp1_grupo6\\ejericio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio2.resx",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.resx",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejercicio2.resx",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.resx",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejercicio2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-14T19:34:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio3.cs",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejercicio3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:33:57.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.cs",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejercicio2.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:17:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejericio1.cs",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejericio1.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejericio1.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejericio1.cs",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejericio1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:46:35.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Principal.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Principal.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Principal.cs",
+              "RelativeToolTip": "TP1_GRUPO6\\Principal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:15:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejercicio3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:14:31.864Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejercicio2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejercicio2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:14:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejericio1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejericio1.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Ejericio1.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Ejericio1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1_GRUPO6\\Ejericio1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:12:51.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Principal.cs",
+              "RelativeDocumentMoniker": "TP1_GRUPO6\\Principal.cs",
+              "ToolTip": "C:\\Users\\judhit\\Desktop\\en procesoTP1.mio\\TP1_GRUPO6\\TP1_GRUPO6\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1_GRUPO6\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:37:55.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

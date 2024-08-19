@@ -1,0 +1,24 @@
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.exe.config
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.exe
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.pdb
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Principal.resources
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Properties.Resources.resources
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.GenerateResource.cache
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.exe
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.pdb
+C:\Users\judhit\Desktop\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Ejericio1.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.exe.config
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.exe
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\bin\Debug\TP1_GRUPO6.pdb
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Ejercicio2.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Ejercicio3.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Ejericio1.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Principal.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.Properties.Resources.resources
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.GenerateResource.cache
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.exe
+C:\Users\judhit\Desktop\en procesoTP1.mio\TP1_GRUPO6\TP1_GRUPO6\obj\Debug\TP1_GRUPO6.pdb
